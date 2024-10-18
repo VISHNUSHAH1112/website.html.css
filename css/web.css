@@ -1,0 +1,150 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: white;
+}
+.nav
+{
+    height: 100px;
+    width: 100%;
+    background-color: #c4e1f6;
+}
+a
+{
+    color: black;
+    font-size: x-large;
+    font-weight: 800;
+    text-decoration: none;
+}
+.home
+{
+    height: 100px;
+    width: 10%;
+    line-height: 100px;
+    margin-left: 5%;
+    float: left;
+
+}
+.gallery
+{
+    float: left;
+    height: 100px;
+    width: 10%;
+    line-height: 100px;
+
+}
+.match
+{
+    float: left;
+    height: 100px;
+    width: 10%;
+    line-height: 100px;
+
+
+}
+.detail
+{
+    float: left;
+    height: 100px;
+    width: 10%;
+    line-height: 100px;
+}
+input
+{
+    position: absolute;
+    right: 20%;
+    top: 5%;
+    height: 30px;
+    width: 15%;
+    border-radius: 20px;
+    line-height: 20px;
+}
+.button
+{
+    height: 40px;
+    line-height: 40px;
+    width: 10%;
+    position: absolute;
+    right: 5%;
+    top: 3.5%;
+    border-radius: 20px;
+}
+::placeholder
+{
+    padding: 25%;
+    border: none;
+}
+.border
+{
+    height: 530px;
+    width: 78%;
+    background-color: #c4e1f6;
+    position: absolute;
+    top: 17%;
+}
+
+.rel
+{
+    height: 350px;
+    width: 18%;
+    background-color: #c4e1f6;
+    margin-top: 2%;
+    top: 15%;
+    position: absolute;
+    right: 2%;
+}
+.footer
+{
+    height: 50px;
+    width: 100%;
+    background-color: #c4e1f6;
+    position: absolute;
+    bottom: 0%;
+    line-height: 50px;
+}
+h2
+{
+    position: absolute;
+    top: 0%;
+    left: 55%;
+
+}
+.per
+{
+    top: 10%;
+    left: 45%;
+    position: absolute;
+}
+.img1
+{
+    height: 500px;
+    width: 400px;
+    top: 3%;
+    position: absolute;
+}
+.img2
+{
+    height: 500px;
+    width: 400px;
+    right: 4%;
+    top: 3%;
+    position: absolute;
+}
+table
+{
+    margin-top: 1%;
+    margin-left: 5%;
+    width: 60%;
+    /* border: 10px solid aqua; */
+    text-align: center;
+}
+p{
+    position: absolute;
+    top: 25%;
+    left: 3%;
+}

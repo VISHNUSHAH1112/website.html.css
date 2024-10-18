@@ -1,0 +1,136 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.navbar
+{
+    height: 80px;
+    width: 100%;
+    background-color: black;
+}
+.logo
+{
+    height: 80px;
+    width: 10%;
+    float: left;
+}
+.logo h2
+{
+    color: white;
+    line-height: 80px;
+    text-align: center;
+}
+.companyname
+{
+    height: 80px;
+    width: 90%;
+    margin: auto;
+    float: left;
+}
+.companyname h1
+{
+    color: white;
+    /* float: left; */
+    line-height: 80px;
+    text-align: center;
+}
+.home
+{
+    height: auto;
+    margin: auto;
+    width: 80%;
+    /* background-color: aqua; */
+}
+.image
+{
+    height: 400px;
+    width: 80%;
+    background-color: aqua;
+    margin: auto;
+    border-radius: 20px;
+
+}
+.image img
+{
+    height: 400px;
+    width: 100%;
+}
+.gallery
+{
+    height: auto;
+    margin: auto;
+    width: 80%;
+}
+.cover
+{
+    height: 350px;
+    width: 80%;
+    margin: auto;
+    /* background-color: aqua; */
+}
+.one img
+{
+    height: 320px;
+    width: 25%;
+    padding: 25px 10px;
+    border-radius: 20%;
+    filter: grayscale(100);
+    float: left;
+
+}
+.one img:hover
+{
+    filter: grayscale(0);
+    transition: 0.7s;
+
+}
+.two img
+{
+    height: 320px;
+    width: 25%;
+    border-radius: 20%;
+    padding: 25px 10px;
+    filter: grayscale(100);
+    float: left;
+}
+.two img:hover
+{
+    filter: grayscale(0);
+    transition: 0.7s;
+}
+.three img
+{
+    height: 320px;
+    width: 25%;
+    border-radius: 20%;
+    padding: 25px 10px;
+    filter: grayscale(100);
+    float: left;
+}
+.three img:hover
+{
+    filter: grayscale(0);
+    transition: 0.7s;
+}
+.four img
+{
+    height: 320px;
+    width: 25%;
+    border-radius: 20%;
+    filter: grayscale(100);
+    float: left;
+    padding: 25px 10px;
+}
+.four img:hover
+{
+    transition: 0.7s;
+    filter: grayscale(0);
+}
+.footer h3
+{
+    /* margin: auto; */
+    padding: 20px;
+    text-align: center;
+}
